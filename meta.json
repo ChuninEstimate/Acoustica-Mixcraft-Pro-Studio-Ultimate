@@ -1,0 +1,23 @@
+{
+  "repo": "acoustica-mixcraft-pro-studio-ultimate",
+  "product": "Acoustica Mixcraft Pro Studio Ultimate",
+  "kind": "audio",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "audio",
+  "topics": [
+    "acoustica-mixcraft",
+    "loop-based-daw",
+    "score-editor",
+    "rex-loops",
+    "home-studio-daw",
+    "mixcraft-setup-failed-fix",
+    "how-to-install-mixcraft",
+    "mixcraft-windows",
+    "mixcraft-desktop-2026",
+    "mixcraft-desktop-package"
+  ],
+  "site": "toolix.me"
+}
